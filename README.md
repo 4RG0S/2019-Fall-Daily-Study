@@ -1,4 +1,4 @@
-# 2019-Fall-Study
+# 2019-Fall-Daily-Study
 
 ### 1. 팀명
 
